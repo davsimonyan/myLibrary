@@ -172,7 +172,7 @@ Basic input element using psuedo classes
 </style>
 <body>
 
-<h1>Please input author details</h1>
+<h1>Please input book details</h1>
 <form action="/add-book" method="post">
     <input type="text" name="title" class="question" id="title" required autocomplete="off" />
     <label for="title"><span>title</span></label>
